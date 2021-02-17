@@ -6,11 +6,27 @@
 
   <groupId>app.msign</groupId>
   <artifactId>qrsign-api</artifactId>
-  <version>0.1</version>
+  <version>0.2</version>
 
   <name>qrsign-api</name>
+  <description>qrsign api base classes</description>
   <url>http://msign.app</url>
+  <scm>
+    <url>https://github.com/msign-kz/qrsign-api.git</url>
+  </scm>
+  <developers>
+    <developer>
+      <id>maratkalibek</id>
+      <name>Marat Kalibekov</name>
+    </developer>
+  </developers>
 
+  <licenses>
+    <license>
+      <name>Apache 2.0</name>
+      <url>https://github.com/msign-kz/qrsign-api/blob/main/LICENSE</url>
+    </license>
+  </licenses>
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <maven.compiler.source>1.8</maven.compiler.source>
