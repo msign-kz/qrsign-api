@@ -6,7 +6,7 @@
 
   <groupId>app.msign</groupId>
   <artifactId>qrsign-api</artifactId>
-  <version>1.0-SNAPSHOT</version>
+  <version>0.1</version>
 
   <name>qrsign-api</name>
   <url>http://msign.app</url>
@@ -30,4 +30,12 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
+
+  <distributionManagement>
+    <repository>
+      <id>ossrh</id>
+      <name>Central Repository OSSRH</name>
+      <url>https://oss.sonatype.org/service/local/staging/deploy/maven2/</url>
+    </repository>
+  </distributionManagement>
 </project>
