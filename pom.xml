@@ -6,7 +6,7 @@
 
   <groupId>app.msign</groupId>
   <artifactId>qrsign-api</artifactId>
-  <version>0.6</version>
+  <version>0.7</version>
 
   <name>qrsign-api</name>
   <description>qrsign api base classes</description>
